@@ -3,14 +3,14 @@
     "display_name": "fntermx 终端",
     "desc": "一款支持持久化的终端应用",
     "labels": "工具,效率",
-    "version": "1.1.0",
+    "version": "1.1.2",
     "author": "EWEDL",
     "author_url": "https://github.com/EWEDLCM/",
     "download_url": "",
     "isdocker": "false",
     "bug_report_url": "https://github.com/EWEDLCM/FnDepot/issues",
     "install_type": "系统空间",
-    "size": "28.7",
-    "changelog": "新增支持秘钥、系统识别、孤立日志清理、标签栏样式选择、光标样式选择；优化手机端样式、工具栏、手势操作（没有演示），改用db存储数据，开启外部访问地址填写"
+    "size": "28.9",
+    "changelog": "支持自定义端口号，增强ws鉴权，修复已知bug（无论如何增强鉴权，不建议将端口号暴露到公网）"
   }
 }
