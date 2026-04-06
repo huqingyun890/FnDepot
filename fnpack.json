@@ -16,7 +16,7 @@
   "picoclaw": {
     "display_name": "PicoClaw",
     "platform": "all",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "desc": "皮皮虾，超轻量级个人 AI 助手，支持多种 LLM 提供商，比小龙虾更小、更轻快、更安全",
     "labels": "工具,AI,效率",
     "distributor": "EWEDL",
@@ -26,6 +26,6 @@
     "install_type": "系统空间",
     "size": "38",
     "download_url": "",
-    "changelog": "更新至 0.2.4\n同步最新 PicoClaw 安装包"
+    "changelog": "更新至 0.2.5\n同步最新 PicoClaw 安装包，增加前端令牌鉴权"
   }
 }
